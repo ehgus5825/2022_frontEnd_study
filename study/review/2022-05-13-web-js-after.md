@@ -1,15 +1,3 @@
----
-layout: single
-title:  "Js + Web 공부 후기"
-categories:
-    - etc
-tag: [js, review]
-toc : true
-toc_sticky: true
-author_profile : false
-sidebar_main: true
----
-
 마무리 및 회고
 ---------------------------
 
